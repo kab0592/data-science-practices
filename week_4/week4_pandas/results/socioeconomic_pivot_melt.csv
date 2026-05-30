@@ -1,0 +1,29 @@
+,province,growth_type,canton_count
+0,Alajuela,Decline,3.0
+1,Cartago,Decline,1.0
+2,Guanacaste,Decline,2.0
+3,Heredia,Decline,0.0
+4,Limon,Decline,2.0
+5,Puntarenas,Decline,0.0
+6,San Jose,Decline,0.0
+7,Alajuela,Efficiency Gain,1.0
+8,Cartago,Efficiency Gain,1.0
+9,Guanacaste,Efficiency Gain,0.0
+10,Heredia,Efficiency Gain,1.0
+11,Limon,Efficiency Gain,0.0
+12,Puntarenas,Efficiency Gain,0.0
+13,San Jose,Efficiency Gain,3.0
+14,Alajuela,Inclusive,11.0
+15,Cartago,Inclusive,5.0
+16,Guanacaste,Inclusive,9.0
+17,Heredia,Inclusive,9.0
+18,Limon,Inclusive,4.0
+19,Puntarenas,Inclusive,11.0
+20,San Jose,Inclusive,17.0
+21,Alajuela,Population-driven,1.0
+22,Cartago,Population-driven,1.0
+23,Guanacaste,Population-driven,0.0
+24,Heredia,Population-driven,0.0
+25,Limon,Population-driven,0.0
+26,Puntarenas,Population-driven,0.0
+27,San Jose,Population-driven,0.0
