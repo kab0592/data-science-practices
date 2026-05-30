@@ -1,0 +1,15 @@
+# QGIS summary
+
+## Goal
+Recreate the PowerBI choropleth map using QGIS
+
+## Summary
+
+- The join between the socioeconomic database and the shapefile was performed using the *canton* field. There were no matching issues, thanks to the editing of the datasets.
+
+- The CRTM05 (official CRS for Costa Rica) was used.
+
+- The map allowed to view the distribution of growth type *cantones*, mostly the concentration of *cantones* in decline in the north of the country, and over at the Caribbean coast.
+
+## Result
+![Map](./costarica_growthtype_map.png)
